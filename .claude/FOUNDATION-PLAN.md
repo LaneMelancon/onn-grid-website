@@ -2,6 +2,26 @@
 
 Approved 2026-09-25. This is the complete plan for the first pass: setup and groundwork only, no page building. The build phase gets its own plan once this lands.
 
+## Progress (updated 2026-09-25)
+
+- [x] Step 0: Git bootstrap (`main` and `dev` pushed)
+- [x] Step 1: Dependencies and config files
+- [x] Step 2: Directory structure
+- [x] Step 3: Styling system. The Carousel theme extension is not done yet.
+- [x] Step 4: Assets and fonts
+- [~] Step 5: Sanity code done, and the schema validates. Still needed: CLI login, CORS, and a viewer token in `.env.local`.
+- [x] Step 6: App shell and routing
+- [x] Step 7: Documentation
+- [ ] Step 8: Verification and merge. First fix the 4 stega-branding type errors, then run lint, build and the smoke test, then commit on `dev` and merge into `main`.
+
+The foundation work is **uncommitted on `dev`**. Open issues are in `.claude/MEMORY.md`.
+
+**Changes made during implementation** (details in MEMORY.md):
+- The home page is the `page` whose slug is `home`, not a `siteSettings.homePage` reference.
+- The section registry starts empty; unregistered sections render a placeholder in dev.
+- Section schema types are named with a `Section` suffix.
+- Button variants are primary, secondary, inverse, translucent and link.
+
 ## Context
 
 The Onn Grid site runs on Webflow today:
