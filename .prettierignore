@@ -1,0 +1,7 @@
+.next
+node_modules
+webflow
+public
+package-lock.json
+schema.json
+src/sanity/types.ts

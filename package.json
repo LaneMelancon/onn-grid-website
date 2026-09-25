@@ -1,0 +1,58 @@
+{
+  "name": "onn-grid-website",
+  "version": "0.1.0",
+  "private": true,
+  "engines": {
+    "node": ">=22.12"
+  },
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "eslint .",
+    "lint:css": "stylelint \"src/**/*.css\"",
+    "typecheck": "tsc --noEmit",
+    "format": "prettier --write .",
+    "typegen": "sanity schema extract --path=./schema.json --force && sanity typegen generate"
+  },
+  "dependencies": {
+    "@mantine/carousel": "^9.6.2",
+    "@mantine/core": "^9.6.2",
+    "@mantine/hooks": "^9.6.2",
+    "@next/third-parties": "^16.3.6",
+    "@sanity/client": "^8.7.0",
+    "@sanity/icons": "^5.2.2",
+    "@sanity/image-url": "^2.1.1",
+    "@sanity/vision": "^6.16.0",
+    "@vercel/analytics": "^2.0.1",
+    "@vercel/speed-insights": "^2.0.0",
+    "clsx": "^2.1.1",
+    "embla-carousel": "^8.6.0",
+    "embla-carousel-react": "^8.6.0",
+    "lottie-react": "^3.1.2",
+    "motion": "^13.4.4",
+    "next": "^16.3.6",
+    "next-sanity": "^13.3.4",
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0",
+    "sanity": "^6.16.0",
+    "server-only": "^0.0.1",
+    "styled-components": "^6.5.3",
+    "zod": "^4.6.5"
+  },
+  "devDependencies": {
+    "@types/node": "^26.6.2",
+    "@types/react": "^19.3.0",
+    "@types/react-dom": "^19.3.0",
+    "eslint": "^9.39.5",
+    "eslint-config-next": "^16.3.6",
+    "eslint-config-prettier": "^10.1.8",
+    "postcss": "^8.5.28",
+    "postcss-preset-mantine": "^1.18.0",
+    "postcss-simple-vars": "^7.0.1",
+    "prettier": "^3.9.9",
+    "stylelint": "^17.15.0",
+    "stylelint-config-standard": "^40.0.0",
+    "typescript": "~6.0.3"
+  }
+}
