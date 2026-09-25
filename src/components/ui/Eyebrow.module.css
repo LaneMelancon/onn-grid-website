@@ -1,0 +1,7 @@
+.root {
+  color: var(--ds-color-eyebrow);
+  font-weight: var(--mantine-font-weight-semibold);
+  letter-spacing: var(--ds-tracking-eyebrow);
+  line-height: 1.5;
+  text-transform: uppercase;
+}

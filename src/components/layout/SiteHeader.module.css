@@ -1,0 +1,13 @@
+.root {
+  position: sticky;
+  top: 0;
+  z-index: var(--ds-z-header);
+  padding-block: var(--mantine-spacing-lg);
+  background-color: var(--ds-color-surface);
+}
+
+.logo {
+  display: inline-block;
+  width: 10.9rem;
+  height: auto;
+}

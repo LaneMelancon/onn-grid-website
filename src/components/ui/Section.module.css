@@ -1,0 +1,18 @@
+.root {
+  --section-space: var(--ds-section-space-lg);
+
+  position: relative;
+  padding-block: var(--section-space);
+
+  &[data-spacing='none'] {
+    --section-space: 0;
+  }
+
+  &[data-spacing='sm'] {
+    --section-space: var(--ds-section-space-sm);
+  }
+
+  &[data-spacing='md'] {
+    --section-space: var(--ds-section-space-md);
+  }
+}

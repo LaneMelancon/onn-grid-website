@@ -1,0 +1,17 @@
+.root {
+  position: fixed;
+  top: var(--mantine-spacing-md);
+  left: var(--mantine-spacing-md);
+  z-index: var(--ds-z-skip-link);
+  padding: var(--mantine-spacing-sm) var(--mantine-spacing-lg);
+  border-radius: var(--mantine-radius-pill);
+  background-color: var(--ds-color-brand);
+  color: var(--mantine-color-white);
+  font-weight: var(--mantine-font-weight-semibold);
+  transform: translateY(-200%);
+  transition: transform var(--ds-duration) var(--ds-ease);
+
+  &:focus-visible {
+    transform: translateY(0);
+  }
+}
