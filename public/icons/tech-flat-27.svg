@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="b" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 181.702 132.948">
+  <g id="c" data-name="Icons">
+    <g id="d" data-name="workflow">
+      <g>
+        <g>
+          <line x1="61.862" y1="119.237" x2="46.539" y2="119.237" fill="none" stroke="#bcbedf" stroke-linecap="round" stroke-linejoin="round" stroke-width="7"/>
+          <polyline points="18.824 119.237 3.5 119.237 3.5 103.913" fill="none" stroke="#bcbedf" stroke-linecap="round" stroke-linejoin="round" stroke-width="7"/>
+          <polyline points="3.5 80.194 3.5 64.87 18.824 64.87" fill="none" stroke="#bcbedf" stroke-linecap="round" stroke-linejoin="round" stroke-width="7"/>
+          <line x1="58.908" y1="64.87" x2="74.232" y2="64.87" fill="none" stroke="#bcbedf" stroke-linecap="round" stroke-linejoin="round" stroke-width="7"/>
+        </g>
+        <line x1="83.986" y1="74.401" x2="83.986" y2="111.173" fill="none" stroke="#404eed" stroke-linecap="round" stroke-linejoin="round" stroke-width="7"/>
+        <line x1="83.986" y1="17.997" x2="83.986" y2="54.769" fill="none" stroke="#404eed" stroke-linecap="round" stroke-linejoin="round" stroke-width="7"/>
+        <line x1="95.014" y1="64.87" x2="160.132" y2="64.87" fill="none" stroke="#404eed" stroke-linecap="round" stroke-linejoin="round" stroke-width="7"/>
+        <path d="M102.205,119.237h56.062c4.079,0,7.386-3.307,7.386-7.386v-42.579" fill="none" stroke="#404eed" stroke-linecap="round" stroke-linejoin="round" stroke-width="7"/>
+        <circle cx="83.986" cy="64.87" r="18.219" transform="translate(-21.271 78.387) rotate(-45)" fill="#404eed"/>
+        <rect x="54.538" y="0" width="58.898" height="25.524" rx="12.762" ry="12.762" fill="#404eed"/>
+        <rect x="149.605" y="48.821" width="32.098" height="32.098" rx="3.78" ry="3.78" fill="#404eed"/>
+        <rect x="58.242" y="105.525" width="51.107" height="27.423" rx="3.78" ry="3.78" fill="#bcbedf"/>
+      </g>
+    </g>
+  </g>
+</svg>

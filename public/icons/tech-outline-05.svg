@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="b" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 154.976 154.741">
+  <g id="c" data-name="Icons">
+    <g id="d" data-name="built in">
+      <line x1="2.5" y1="2.5" x2="21.805" y2="21.917" fill="none" stroke="#404eed" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+      <line x1="69.81" y1="46.737" x2="88.829" y2="65.138" fill="none" stroke="#404eed" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+      <line x1="47.045" y1="69.535" x2="65.971" y2="87.846" fill="none" stroke="#404eed" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+      <line x1="133.171" y1="132.825" x2="152.476" y2="152.241" fill="none" stroke="#404eed" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+      <path d="M21.805,21.917h0c13.055-13.055,34.22-13.055,47.275,0l12.749,12.749-47.275,47.275-12.749-12.749c-13.055-13.055-13.055-34.22,0-47.275Z" fill="none" stroke="#404eed" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+      <path d="M133.083,132.793h0c-13.055,13.055-34.22,13.055-47.275,0l-12.749-12.749,47.275-47.275,12.749,12.749c13.055,13.055,13.055,34.22,0,47.275Z" fill="none" stroke="#404eed" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+    </g>
+  </g>
+</svg>

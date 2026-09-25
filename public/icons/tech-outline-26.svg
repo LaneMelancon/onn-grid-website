@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="b" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 98.409 154.432">
+  <g id="c" data-name="Icons">
+    <g id="d" data-name="App licenses">
+      <g>
+        <path d="M2.5,19.744H95.909v125.049c0,3.94-3.199,7.138-7.138,7.138H9.638c-3.94,0-7.138-3.199-7.138-7.138V19.744h0Z" fill="none" stroke="#404eed" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+        <path d="M7.821,2.5H90.588c2.937,0,5.321,2.384,5.321,5.321v11.924H2.5V7.821c0-2.937,2.384-5.321,5.321-5.321Z" fill="none" stroke="#404eed" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+        <line x1="24.165" y1="89.729" x2="74.244" y2="89.729" fill="none" stroke="#404eed" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+        <line x1="24.165" y1="110.012" x2="74.244" y2="110.012" fill="none" stroke="#404eed" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+        <rect x="22.149" y="48.685" width="54.111" height="22.672" rx="4.746" ry="4.746" fill="none" stroke="#404eed" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+      </g>
+    </g>
+  </g>
+</svg>

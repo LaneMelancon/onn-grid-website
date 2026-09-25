@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="b" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 114.398 116.477">
+  <g id="c" data-name="Icons">
+    <g>
+      <path d="M19.073,19.245H95.325c2.069,0,3.834,1.707,4.172,4.034l12.343,85.092c.426,2.936-1.561,5.607-4.172,5.607H6.729c-2.611,0-4.598-2.67-4.172-5.607L14.901,23.278c.338-2.327,2.103-4.034,4.172-4.034Z" fill="none" stroke="#404eed" stroke-miterlimit="10" stroke-width="5"/>
+      <path d="M79.969,24.862c0-12.252-10.195-22.185-22.771-22.185s-22.771,9.933-22.771,22.185" fill="none" stroke="#404eed" stroke-linecap="round" stroke-miterlimit="10" stroke-width="5.353"/>
+      <line x1="13.563" y1="32.502" x2="100.834" y2="32.502" fill="none" stroke="#404eed" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+    </g>
+  </g>
+</svg>

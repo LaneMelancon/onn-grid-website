@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="b" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 175.41 149.337">
+  <g id="c" data-name="Icons">
+    <g id="d" data-name="transfer">
+      <g>
+        <line x1="53.461" y1="21.593" x2="53.461" y2="21.593" fill="none" stroke="#404eed" stroke-linecap="round" stroke-miterlimit="8" stroke-width="5"/>
+        <line x1="87.705" y1="21.593" x2="104.827" y2="21.593" fill="none" stroke="#404eed" stroke-dasharray="0 0 0 34.244" stroke-linecap="round" stroke-miterlimit="8" stroke-width="5"/>
+        <line x1="121.949" y1="21.593" x2="121.949" y2="21.593" fill="none" stroke="#404eed" stroke-linecap="round" stroke-miterlimit="8" stroke-width="5"/>
+      </g>
+      <g>
+        <g>
+          <line x1="121.949" y1="127.744" x2="121.949" y2="127.744" fill="none" stroke="#404eed" stroke-linecap="round" stroke-miterlimit="8" stroke-width="5"/>
+          <line x1="87.705" y1="127.744" x2="70.583" y2="127.744" fill="none" stroke="#404eed" stroke-dasharray="0 0 0 34.244" stroke-linecap="round" stroke-miterlimit="8" stroke-width="5"/>
+          <line x1="53.461" y1="127.744" x2="53.461" y2="127.744" fill="none" stroke="#404eed" stroke-linecap="round" stroke-miterlimit="8" stroke-width="5"/>
+        </g>
+        <g>
+          <line x1="53.461" y1="74.668" x2="53.461" y2="74.668" fill="none" stroke="#404eed" stroke-linecap="round" stroke-miterlimit="8" stroke-width="5"/>
+          <line x1="87.705" y1="74.668" x2="104.827" y2="74.668" fill="none" stroke="#404eed" stroke-dasharray="0 0 0 34.244" stroke-linecap="round" stroke-miterlimit="8" stroke-width="5"/>
+          <line x1="121.949" y1="74.668" x2="121.949" y2="74.668" fill="none" stroke="#404eed" stroke-linecap="round" stroke-miterlimit="8" stroke-width="5"/>
+        </g>
+      </g>
+      <g>
+        <g>
+          <circle cx="153.817" cy="127.744" r="19.093" transform="translate(-23.066 220.967) rotate(-67.5)" fill="none" stroke="#404eed" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+          <circle cx="21.593" cy="127.744" r="19.093" transform="translate(-104.691 98.808) rotate(-67.5)" fill="none" stroke="#404eed" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+        </g>
+        <g>
+          <circle cx="153.817" cy="74.631" r="19.093" fill="none" stroke="#404eed" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+          <circle cx="21.593" cy="74.631" r="19.093" fill="none" stroke="#404eed" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+        </g>
+        <g>
+          <circle cx="153.817" cy="21.593" r="19.093" transform="translate(-1.473 24.918) rotate(-9.217)" fill="none" stroke="#404eed" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+          <circle cx="21.593" cy="21.593" r="19.093" transform="translate(-3.18 3.738) rotate(-9.217)" fill="none" stroke="#404eed" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

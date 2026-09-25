@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="b" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 130.095 135.291">
+  <g id="c" data-name="Icons">
+    <g id="d" data-name="tracking">
+      <g>
+        <g>
+          <rect x="52.905" y="58.845" width="77.19" height="76.446" rx="2.543" ry="2.543" fill="#404eed"/>
+          <rect y="58.845" width="77.19" height="76.446" rx="2.543" ry="2.543" fill="#bcbedf"/>
+        </g>
+        <path d="M93.823,58.845h19.562v20.306c0,.858-.696,1.554-1.554,1.554h-16.454c-.858,0-1.554-.696-1.554-1.554v-20.306h0Z" fill="#bcbedf"/>
+      </g>
+      <g>
+        <path d="M111.979,23.029C99.987,10.967,83.378,3.5,65.025,3.5S30.105,10.952,18.116,22.989" fill="none" stroke="#404eed" stroke-linecap="round" stroke-linejoin="round" stroke-width="7"/>
+        <path d="M90.408,37.972c-6.656-6.726-15.173-10.178-25.383-10.178s-19.403,4.153-26.056,10.854" fill="none" stroke="#404eed" stroke-linecap="round" stroke-linejoin="round" stroke-width="7"/>
+      </g>
+    </g>
+  </g>
+</svg>

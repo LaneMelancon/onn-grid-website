@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="b" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1677.937 1677.667">
+  <g id="c" data-name="Icon Dark">
+    <g id="d" data-name="Logo Icon (Dark)">
+      <rect x="46.206" y="241.148" width="1390.314" height="1390.314" rx="130" ry="130" fill="none" stroke="#fff" stroke-miterlimit="10" stroke-width="92.412"/>
+      <g>
+        <rect x="389.61" y="31.731" width="418.865" height="418.865" fill="none" stroke="#0051ff" stroke-miterlimit="10" stroke-width="63.462"/>
+        <rect x="808.476" y="31.731" width="418.865" height="418.865" fill="none" stroke="#0051ff" stroke-miterlimit="10" stroke-width="63.462"/>
+        <path d="M1227.341,31.731h354.865c35.323,0,64,28.677,64,64V450.597h-418.865V31.731h0Z" fill="none" stroke="#0051ff" stroke-miterlimit="10" stroke-width="63.462"/>
+        <rect x="389.61" y="450.596" width="418.865" height="418.865" fill="none" stroke="#0051ff" stroke-miterlimit="10" stroke-width="63.462"/>
+        <rect x="808.475" y="450.596" width="418.865" height="418.865" fill="none" stroke="#0051ff" stroke-miterlimit="10" stroke-width="63.462"/>
+        <rect x="1227.341" y="450.597" width="418.865" height="418.865" fill="none" stroke="#0051ff" stroke-miterlimit="10" stroke-width="63.462"/>
+        <path d="M389.61,869.461h418.865v418.865H453.61c-35.323,0-64-28.677-64-64v-354.865h0Z" fill="none" stroke="#0051ff" stroke-miterlimit="10" stroke-width="63.462"/>
+        <rect x="808.475" y="869.462" width="418.865" height="418.865" fill="none" stroke="#0051ff" stroke-miterlimit="10" stroke-width="63.462"/>
+        <rect x="1227.341" y="869.462" width="418.865" height="418.865" fill="none" stroke="#0051ff" stroke-miterlimit="10" stroke-width="63.462"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="b" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 161.393 126.712">
+  <g id="c" data-name="Isolation Mode">
+    <g>
+      <g id="d" data-name="analytic">
+        <rect x="2.5" y="2.5" width="156.393" height="121.712" rx="6" ry="6" fill="none" stroke="#404eed" stroke-miterlimit="10" stroke-width="5"/>
+        <g>
+          <g>
+            <line x1="92.079" y1="50.733" x2="141.945" y2="50.733" fill="none" stroke="#404eed" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+            <line x1="92.079" y1="68.93" x2="141.945" y2="68.93" fill="none" stroke="#404eed" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+          </g>
+          <line x1="22.979" y1="100.035" x2="141.945" y2="100.035" fill="none" stroke="#404eed" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+          <rect x="22.016" y="36.77" width="51.682" height="45.545" rx="6.574" ry="6.574" fill="none" stroke="#404eed" stroke-miterlimit="10" stroke-width="5"/>
+        </g>
+      </g>
+      <line x1="2.5" y1="15.88" x2="158.64" y2="15.88" fill="none" stroke="#404eed" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+    </g>
+  </g>
+</svg>

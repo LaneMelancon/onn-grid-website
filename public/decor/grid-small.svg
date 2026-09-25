@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="460.834" height="460.834" viewBox="0 0 460.834 460.834">
+  <g id="Off_White_Grid" data-name="Off White Grid" transform="translate(230.417 230.417)">
+    <g id="Isolation_Mode" data-name="Isolation Mode" transform="translate(-225.17 -225.17)">
+      <g id="Blue_Grid" data-name="Blue Grid" transform="translate(0 0)">
+        <rect id="Rectangle_842" data-name="Rectangle 842" width="106.146" height="106.146" transform="translate(75.057 300.227) rotate(-45)" fill="none" stroke="#d9f8ff" stroke-miterlimit="10" stroke-width="7.42"/>
+        <path id="Rectangle_843" data-name="Rectangle 843" d="M13.268,0h92.878a0,0,0,0,1,0,0V106.146a0,0,0,0,1,0,0H0a0,0,0,0,1,0,0V13.268A13.268,13.268,0,0,1,13.268,0Z" transform="translate(0 225.17) rotate(-45)" fill="none" stroke="#d9f8ff" stroke-miterlimit="10" stroke-width="7.42"/>
+        <rect id="Rectangle_844" data-name="Rectangle 844" width="106.146" height="106.146" transform="translate(225.17 300.227) rotate(-45)" fill="none" stroke="#d9f8ff" stroke-miterlimit="10" stroke-width="7.42"/>
+        <rect id="Rectangle_845" data-name="Rectangle 845" width="106.146" height="106.146" transform="translate(150.113 225.17) rotate(-45)" fill="none" stroke="#d9f8ff" stroke-miterlimit="10" stroke-width="7.42"/>
+        <rect id="Rectangle_846" data-name="Rectangle 846" width="106.146" height="106.146" transform="translate(75.057 150.113) rotate(-45)" fill="none" stroke="#d9f8ff" stroke-miterlimit="10" stroke-width="7.42"/>
+        <path id="Rectangle_847" data-name="Rectangle 847" d="M0,0H106.146a0,0,0,0,1,0,0V92.878a13.268,13.268,0,0,1-13.268,13.268H0a0,0,0,0,1,0,0V0A0,0,0,0,1,0,0Z" transform="translate(300.227 225.17) rotate(-45)" fill="none" stroke="#d9f8ff" stroke-miterlimit="10" stroke-width="7.42"/>
+        <rect id="Rectangle_848" data-name="Rectangle 848" width="106.146" height="106.146" transform="translate(225.17 150.113) rotate(-45)" fill="none" stroke="#d9f8ff" stroke-miterlimit="10" stroke-width="7.42"/>
+        <rect id="Rectangle_849" data-name="Rectangle 849" width="106.146" height="106.146" transform="translate(150.113 75.057) rotate(-45)" fill="none" stroke="#d9f8ff" stroke-miterlimit="10" stroke-width="7.42"/>
+        <rect id="Rectangle_850" data-name="Rectangle 850" width="106.146" height="106.146" transform="translate(150.113 375.283) rotate(-45)" fill="none" stroke="#d9f8ff" stroke-miterlimit="10" stroke-width="7.42"/>
+      </g>
+    </g>
+  </g>
+</svg>

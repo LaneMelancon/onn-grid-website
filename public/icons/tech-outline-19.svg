@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="b" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 135.095 136.791">
+  <g id="c" data-name="Icons">
+    <g id="d" data-name="tracking">
+      <g>
+        <g>
+          <path d="M77.147,134.291h52.905c1.405,0,2.543-1.139,2.543-2.543V60.388c0-1.405-1.139-2.543-2.543-2.543h-52.905" fill="none" stroke="#404eed" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+          <rect x="2.5" y="57.845" width="77.19" height="76.446" rx="2.543" ry="2.543" fill="none" stroke="#404eed" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+        </g>
+        <path d="M96.323,57.845h19.562v20.306c0,.858-.696,1.554-1.554,1.554h-16.454c-.858,0-1.554-.696-1.554-1.554v-20.306h0Z" fill="none" stroke="#404eed" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+      </g>
+      <g>
+        <path d="M114.479,22.029C102.487,9.967,85.878,2.5,67.525,2.5S32.605,9.952,20.616,21.989" fill="none" stroke="#404eed" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+        <path d="M92.908,36.972c-6.656-6.726-15.173-10.178-25.383-10.178s-19.403,4.153-26.056,10.854" fill="none" stroke="#404eed" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+      </g>
+    </g>
+  </g>
+</svg>

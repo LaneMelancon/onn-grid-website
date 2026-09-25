@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64.78" height="64.781" viewBox="0 0 64.78 64.781">
+  <g id="Time-2_Light_" data-name="Time-2 (Light)" transform="translate(32.39 32.39)">
+    <g id="Features_Icon_Sets" data-name="Features Icon Sets" transform="translate(-32.39 -32.39)">
+      <g id="Time-2_Light_2" data-name="Time-2 (Light)">
+        <g id="Group_400" data-name="Group 400">
+          <g id="Group_395" data-name="Group 395">
+            <path id="Path_38086" data-name="Path 38086" d="M32.39,64.781V62.753A30.362,30.362,0,1,0,2.028,32.391H0a32.39,32.39,0,1,1,32.39,32.39Z" fill="#171717"/>
+          </g>
+          <g id="Group_399" data-name="Group 399" transform="translate(0.329 35.117)">
+            <g id="Group_396" data-name="Group 396" transform="translate(26.367 27.361)">
+              <path id="Path_38087" data-name="Path 38087" d="M35.467,78.962c-.854-.083-1.717-.2-2.561-.352l.286-1.6c.8.143,1.62.256,2.432.334Z" transform="translate(-32.906 -77.013)" fill="#171717"/>
+            </g>
+            <g id="Group_397" data-name="Group 397" transform="translate(1.758 7.602)">
+              <path id="Path_38088" data-name="Path 38088" d="M21.756,72.544a32.26,32.26,0,0,1-5.082-2.4l.818-1.4a30.51,30.51,0,0,0,4.825,2.276Zm-9.667-5.638a32.555,32.555,0,0,1-3.955-3.987L9.381,61.88a30.786,30.786,0,0,0,3.757,3.786Zm-7.161-8.6a32.147,32.147,0,0,1-2.356-5.1L4.1,52.658A30.42,30.42,0,0,0,6.335,57.5Z" transform="translate(-2.572 -52.658)" fill="#171717"/>
+            </g>
+            <g id="Group_398" data-name="Group 398">
+              <path id="Path_38089" data-name="Path 38089" d="M.736,45.993C.592,45.151.481,44.288.405,43.43l1.616-.143c.072.815.178,1.634.314,2.434Z" transform="translate(-0.405 -43.287)" fill="#171717"/>
+            </g>
+          </g>
+        </g>
+        <g id="Group_401" data-name="Group 401" transform="translate(3.954 3.948)">
+          <path id="Path_38090" data-name="Path 38090" d="M33.932,61.745a.609.609,0,0,1-.013-1.217A27.226,27.226,0,1,0,6.091,32.7a.608.608,0,0,1-.608.595H5.469a.608.608,0,0,1-.595-.621A28.443,28.443,0,1,1,33.946,61.745Z" transform="translate(-4.874 -4.866)" fill="#00a4ff"/>
+        </g>
+        <path id="Path_38091" data-name="Path 38091" d="M52.118,43.417,41.81,36.2a2.872,2.872,0,0,0-1.951-4.164V13.707a.608.608,0,0,0-1.217,0V32.031a2.9,2.9,0,1,0,2.388,5.1l10.39,7.279a.608.608,0,1,0,.7-1Z" transform="translate(-6.861 -2.472)" fill="#171717"/>
+      </g>
+    </g>
+  </g>
+</svg>

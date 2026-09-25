@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="b" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 184.854 111.787">
+  <g id="c" data-name="Icons">
+    <g id="d" data-name="process">
+      <g>
+        <g>
+          <path d="M9.724,79.839c-4.564-6.857-7.224-15.091-7.224-23.945C2.5,31.995,21.873,12.622,45.772,12.622c12.224,0,23.265,5.069,31.134,13.22" fill="none" fill-rule="evenodd" stroke="#404eed" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+          <path d="M87.717,66.565c-4.577,18.988-21.553,32.601-41.946,32.601-7.229,0-13.766-1.629-19.756-4.763" fill="none" fill-rule="evenodd" stroke="#404eed" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+          <polyline points="77.863 2.5 77.863 26.803 53.56 26.803" fill="none" fill-rule="evenodd" stroke="#404eed" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+        </g>
+        <g>
+          <path d="M174.812,47.699c.531,2.709,.775,5.331,.775,8.195,0,23.898-19.373,43.272-43.272,43.272-12.165,0-23.158-5.02-31.019-13.101" fill="none" fill-rule="evenodd" stroke="#404eed" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+          <path d="M90.485,44.777c4.907-18.512,21.775-32.155,41.831-32.155,13.507,0,25.569,6.189,33.505,15.886" fill="none" fill-rule="evenodd" stroke="#404eed" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+          <polyline points="100.224 109.287 100.224 84.984 124.528 84.984" fill="none" fill-rule="evenodd" stroke="#404eed" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+        </g>
+      </g>
+      <circle cx="17.078" cy="88.222" r="10.806" transform="translate(-57.38 37.915) rotate(-45)" fill="none" stroke="#404eed" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+      <circle cx="89.419" cy="55.893" r="10.806" transform="translate(-13.333 79.599) rotate(-45)" fill="none" stroke="#404eed" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+      <circle cx="171.549" cy="37.395" r="10.806" transform="translate(23.803 132.256) rotate(-45)" fill="none" stroke="#404eed" stroke-linecap="round" stroke-linejoin="round" stroke-width="5"/>
+    </g>
+  </g>
+</svg>

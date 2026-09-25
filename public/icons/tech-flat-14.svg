@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="b" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 170.41 144.337">
+  <g id="c" data-name="Icons">
+    <g id="d" data-name="transfer">
+      <g>
+        <line x1="50.961" y1="19.093" x2="50.961" y2="19.093" fill="none" stroke="#404eed" stroke-linecap="round" stroke-miterlimit="8" stroke-width="7"/>
+        <line x1="85.205" y1="19.093" x2="102.327" y2="19.093" fill="none" stroke="#404eed" stroke-dasharray="0 0 0 34.244" stroke-linecap="round" stroke-miterlimit="8" stroke-width="7"/>
+        <line x1="119.449" y1="19.093" x2="119.449" y2="19.093" fill="none" stroke="#404eed" stroke-linecap="round" stroke-miterlimit="8" stroke-width="7"/>
+      </g>
+      <g>
+        <g>
+          <line x1="119.449" y1="125.244" x2="119.449" y2="125.244" fill="none" stroke="#404eed" stroke-linecap="round" stroke-miterlimit="8" stroke-width="7"/>
+          <line x1="85.205" y1="125.244" x2="68.083" y2="125.244" fill="none" stroke="#404eed" stroke-dasharray="0 0 0 34.244" stroke-linecap="round" stroke-miterlimit="8" stroke-width="7"/>
+          <line x1="50.961" y1="125.244" x2="50.961" y2="125.244" fill="none" stroke="#404eed" stroke-linecap="round" stroke-miterlimit="8" stroke-width="7"/>
+        </g>
+        <g>
+          <line x1="50.961" y1="72.168" x2="50.961" y2="72.168" fill="none" stroke="#404eed" stroke-linecap="round" stroke-miterlimit="8" stroke-width="7"/>
+          <line x1="85.205" y1="72.168" x2="102.327" y2="72.168" fill="none" stroke="#404eed" stroke-dasharray="0 0 0 34.244" stroke-linecap="round" stroke-miterlimit="8" stroke-width="7"/>
+          <line x1="119.449" y1="72.169" x2="119.449" y2="72.169" fill="none" stroke="#404eed" stroke-linecap="round" stroke-miterlimit="8" stroke-width="7"/>
+        </g>
+      </g>
+      <g>
+        <g>
+          <circle cx="151.317" cy="125.244" r="19.093" fill="#404eed"/>
+          <circle cx="19.093" cy="125.244" r="19.093" fill="#bcbedf"/>
+        </g>
+        <g>
+          <circle cx="151.317" cy="72.131" r="19.093" transform="translate(-12.524 36.695) rotate(-13.282)" fill="#bcbedf"/>
+          <circle cx="19.093" cy="72.131" r="19.093" transform="translate(-45.412 34.627) rotate(-45)" fill="#404eed"/>
+        </g>
+        <g>
+          <circle cx="151.317" cy="19.093" r="19.093" fill="#404eed"/>
+          <circle cx="19.093" cy="19.093" r="19.093" fill="#bcbedf"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

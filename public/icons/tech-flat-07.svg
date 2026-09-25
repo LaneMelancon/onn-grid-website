@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="b" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 123.551 136.879">
+  <g id="c" data-name="Icons">
+    <g id="d" data-name="on/off">
+      <g>
+        <rect x="0" y="0" width="123.551" height="63.844" rx="31.922" ry="31.922" fill="#404eed"/>
+        <circle cx="32.552" cy="31.922" r="22.48" fill="#bcbedf"/>
+      </g>
+      <g>
+        <rect x="0" y="73.036" width="123.551" height="63.843" rx="31.922" ry="31.922" transform="translate(123.551 209.915) rotate(180)" fill="#bcbedf"/>
+        <circle cx="90.998" cy="104.957" r="22.48" fill="#404eed"/>
+      </g>
+    </g>
+  </g>
+</svg>
