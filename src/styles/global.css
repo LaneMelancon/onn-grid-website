@@ -1,0 +1,43 @@
+/*
+ * Global base styles. Keep this file small: Mantine's baseline handles resets,
+ * and anything component-specific belongs in a CSS Module.
+ */
+
+html {
+  scroll-padding-top: var(--ds-scroll-offset);
+}
+
+[data-tone] {
+  background-color: var(--ds-color-surface);
+  color: var(--ds-color-text);
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+img,
+video {
+  display: block;
+  max-width: 100%;
+}
+
+::selection {
+  background-color: var(--ds-color-tint);
+  color: var(--mantine-color-ink-9);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}

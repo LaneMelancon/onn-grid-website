@@ -1,0 +1,25 @@
+.input {
+  background-color: var(--mantine-color-gray-0);
+  border-color: alpha(var(--mantine-color-tint-3), 0.5);
+  padding-inline: 1.5rem;
+  transition: border-color var(--ds-duration-slow) var(--ds-ease);
+
+  &:focus,
+  &:focus-within {
+    border-color: var(--ds-color-brand);
+  }
+}
+
+.label {
+  padding-inline-start: 1.5rem;
+  margin-bottom: var(--mantine-spacing-xxs);
+  font-weight: var(--mantine-font-weight-regular);
+}
+
+.required {
+  color: var(--ds-color-brand);
+}
+
+.error {
+  padding-inline-start: 1.5rem;
+}

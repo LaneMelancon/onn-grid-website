@@ -1,0 +1,5 @@
+/* Large headings use the display font; smaller headings read better in the text font. */
+.root:is(h3, h4, h5, h6) {
+  font-family: var(--mantine-font-family);
+  letter-spacing: var(--ds-tracking-wide);
+}

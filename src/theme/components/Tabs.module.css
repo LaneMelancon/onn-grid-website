@@ -1,0 +1,25 @@
+.list {
+  display: inline-flex;
+  gap: 0;
+  padding: var(--mantine-spacing-xs);
+  background-color: var(--mantine-color-ink-6);
+  border-radius: var(--mantine-radius-pill);
+
+  &::before {
+    display: none;
+  }
+}
+
+.tab {
+  padding: var(--mantine-spacing-sm) var(--mantine-spacing-xl);
+  color: var(--ds-color-tint);
+  font-weight: var(--mantine-font-weight-semibold);
+  transition:
+    background-color var(--ds-duration) var(--ds-ease),
+    color var(--ds-duration) var(--ds-ease);
+
+  &[data-active] {
+    background-color: var(--mantine-color-ink-9);
+    color: var(--mantine-color-gray-0);
+  }
+}

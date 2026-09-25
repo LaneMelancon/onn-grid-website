@@ -1,0 +1,99 @@
+/*
+ * Design-system tokens (--ds-*).
+ *
+ * Mantine owns the raw scales (palettes, spacing, radius, font sizes) and exposes
+ * them as --mantine-* variables. This file adds what Mantine doesn't cover and maps
+ * semantic roles onto the Mantine palettes, so components only reference roles.
+ */
+
+:root {
+  /* Layout */
+  --ds-gutter: clamp(1.5rem, 1rem + 1.667vw, 2.5rem);
+  --ds-section-space-sm: clamp(3rem, 2rem + 3.333vw, 5rem);
+  --ds-section-space-md: clamp(4rem, 2.75rem + 4.167vw, 7.5rem);
+  --ds-section-space-lg: clamp(5rem, 2.5rem + 8.333vw, 10rem);
+  --ds-scroll-offset: 6rem;
+
+  /* Text measure */
+  --ds-measure-sm: 40ch;
+  --ds-measure-md: 60ch;
+  --ds-measure-lg: 70ch;
+
+  /* Letter spacing */
+  --ds-tracking-wide: 0.04rem;
+  --ds-tracking-eyebrow: 0.1rem;
+
+  /* Motion */
+  --ds-duration-fast: 150ms;
+  --ds-duration: 250ms;
+  --ds-duration-slow: 500ms;
+  --ds-ease: ease-in-out;
+  --ds-ease-out: cubic-bezier(0.25, 1, 0.5, 1);
+  --ds-ease-in-out: cubic-bezier(0.77, 0, 0.175, 1);
+
+  /* Stacking */
+  --ds-z-header: 100;
+  --ds-z-menu: 200;
+  --ds-z-cursor: 300;
+  --ds-z-skip-link: 1000;
+
+  /* Brand roles */
+  --ds-color-brand: var(--mantine-color-brand-6);
+  --ds-color-accent: var(--mantine-color-accent-5);
+  --ds-color-tint: var(--mantine-color-tint-3);
+
+  /* Cards keep their own surface regardless of the section tone */
+  --ds-color-card: var(--mantine-color-white);
+  --ds-color-card-text: var(--mantine-color-ink-9);
+  --ds-color-card-text-muted: var(--mantine-color-ink-6);
+}
+
+/*
+ * Tones. Any element with data-tone (usually a <Section>) redefines the text,
+ * surface, and border roles; everything inside adapts without extra classes.
+ * Mantine's own text/dimmed/border variables are remapped too, so Mantine
+ * components follow the tone as well.
+ */
+
+:root,
+[data-tone='light'] {
+  --ds-color-surface: var(--mantine-color-white);
+  --ds-color-text: var(--mantine-color-ink-9);
+  --ds-color-text-muted: var(--mantine-color-ink-6);
+  --ds-color-text-subtle: var(--mantine-color-gray-6);
+  --ds-color-eyebrow: var(--mantine-color-brand-6);
+  --ds-color-border: var(--mantine-color-gray-3);
+}
+
+[data-tone='subtle'] {
+  --ds-color-surface: var(--mantine-color-gray-0);
+  --ds-color-text: var(--mantine-color-ink-9);
+  --ds-color-text-muted: var(--mantine-color-ink-6);
+  --ds-color-text-subtle: var(--mantine-color-gray-6);
+  --ds-color-eyebrow: var(--mantine-color-brand-6);
+  --ds-color-border: var(--mantine-color-gray-3);
+}
+
+[data-tone='dark'] {
+  --ds-color-surface: var(--mantine-color-ink-9);
+  --ds-color-text: var(--mantine-color-white);
+  --ds-color-text-muted: var(--mantine-color-tint-3);
+  --ds-color-text-subtle: var(--mantine-color-gray-3);
+  --ds-color-eyebrow: var(--mantine-color-accent-5);
+  --ds-color-border: alpha(var(--mantine-color-white), 0.12);
+}
+
+[data-tone='brand'] {
+  --ds-color-surface: var(--mantine-color-brand-6);
+  --ds-color-text: var(--mantine-color-white);
+  --ds-color-text-muted: var(--mantine-color-tint-1);
+  --ds-color-text-subtle: var(--mantine-color-tint-3);
+  --ds-color-eyebrow: var(--mantine-color-white);
+  --ds-color-border: alpha(var(--mantine-color-white), 0.2);
+}
+
+[data-tone] {
+  --mantine-color-text: var(--ds-color-text);
+  --mantine-color-dimmed: var(--ds-color-text-subtle);
+  --mantine-color-default-border: var(--ds-color-border);
+}

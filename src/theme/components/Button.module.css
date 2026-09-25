@@ -1,0 +1,70 @@
+/*
+ * Variants set Mantine's --button-* variables instead of properties, so Mantine
+ * keeps handling hover, disabled, and loading states for every variant.
+ * Unknown variant names get no inline variables from Mantine, which is what
+ * lets these class-level values apply.
+ */
+
+.root {
+  --button-height-sm: 2.75rem;
+  --button-height-md: 3.25rem;
+  --button-height-lg: 3.75rem;
+  --button-padding-x-sm: 1.75rem;
+  --button-padding-x-md: 2.5rem;
+  --button-padding-x-lg: 3rem;
+
+  font-weight: var(--mantine-font-weight-semibold);
+  letter-spacing: var(--ds-tracking-wide);
+  transition:
+    background-color var(--ds-duration) var(--ds-ease),
+    border-color var(--ds-duration) var(--ds-ease),
+    color var(--ds-duration) var(--ds-ease),
+    opacity var(--ds-duration) var(--ds-ease);
+
+  &[data-variant='primary'] {
+    --button-bg: var(--ds-color-brand);
+    --button-color: var(--mantine-color-white);
+    --button-hover: var(--ds-color-tint);
+    --button-hover-color: var(--ds-color-brand);
+    --button-bd: none;
+  }
+
+  /* Outlined in the current text color, so it works on every tone */
+  &[data-variant='secondary'] {
+    --button-bg: transparent;
+    --button-color: var(--ds-color-text);
+    --button-hover: var(--ds-color-text);
+    --button-hover-color: var(--ds-color-surface);
+    --button-bd: 2px solid var(--ds-color-text);
+  }
+
+  &[data-variant='inverse'] {
+    --button-bg: var(--mantine-color-white);
+    --button-color: var(--ds-color-brand);
+    --button-hover: var(--ds-color-tint);
+    --button-hover-color: var(--ds-color-brand);
+    --button-bd: none;
+  }
+
+  &[data-variant='translucent'] {
+    --button-bg: alpha(var(--mantine-color-white), 0.2);
+    --button-color: var(--mantine-color-white);
+    --button-hover: var(--mantine-color-white);
+    --button-hover-color: var(--ds-color-brand);
+    --button-bd: none;
+  }
+
+  &[data-variant='link'] {
+    --button-bg: transparent;
+    --button-color: currentcolor;
+    --button-hover: transparent;
+    --button-bd: none;
+
+    height: auto;
+    padding-inline: 0;
+
+    @mixin hover {
+      opacity: 0.6;
+    }
+  }
+}

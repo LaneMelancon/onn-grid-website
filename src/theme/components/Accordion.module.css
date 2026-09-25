@@ -1,0 +1,24 @@
+.item {
+  background-color: var(--ds-color-card);
+  color: var(--ds-color-card-text);
+  border: none;
+}
+
+.control {
+  min-height: 4.375rem;
+  padding-inline: var(--mantine-spacing-lg);
+}
+
+.label {
+  font-weight: var(--mantine-font-weight-medium);
+}
+
+.chevron {
+  color: var(--ds-color-brand);
+}
+
+.content {
+  padding: 0 var(--mantine-spacing-xl) var(--mantine-spacing-lg) var(--mantine-spacing-lg);
+  font-size: var(--mantine-font-size-sm);
+  color: var(--ds-color-card-text-muted);
+}

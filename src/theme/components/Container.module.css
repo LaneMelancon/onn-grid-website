@@ -1,0 +1,5 @@
+/* Container sizes describe the content width; the gutter is added on top of it. */
+.root {
+  max-width: calc(var(--container-size) + var(--ds-gutter) * 2);
+  padding-inline: var(--ds-gutter);
+}
